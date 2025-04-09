@@ -19,7 +19,7 @@ Our team of skilled developers, designers, and strategists work collaboratively 
 
 ### Technology Stack
 
-We leverage the latest technologies including Laravel, Nest.js. Express.js, Node,js, Vue.js, React, Flutter, and more to build high-performance applications that meet modern business needs.
+We leverage the latest technologies including Laravel, Nest.js, Express.js, Node.js, Vue.js, React, Flutter, and more to build high-performance applications that meet modern business needs.
 
 ### Why Choose Jadesdev?
 
